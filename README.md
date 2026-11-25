@@ -1,2 +1,11 @@
-<h1> Hello world this is my first readme file </h1> <br>
-This file will be updated through time ;* peace
+# Gestion Commerciale
+
+Desktop sales management application built with **VB.NET**, **Windows Forms** and **SQL Server**.
+
+## Tech stack
+VB.NET · Windows Forms · SQL Server · ADO.NET · Visual Studio
+
+## Run the project
+1. Open `Gestion_Commerciale.sln` in Visual Studio.
+2. Set up the SQL Server database and update the connection string.
+3. Press **F5** to run.
